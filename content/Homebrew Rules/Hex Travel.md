@@ -1,6 +1,4 @@
-## Travel
-
-Hex Crawl in the Badlands
+Hex Crawl in the Badlands, or when Time matters
 
 Rules:
 
